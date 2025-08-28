@@ -1,7 +1,7 @@
 # Power program using for loop
 
-a = int(input("enter base number: "))
-b = int(input("enter exponent: "))
+a = int(input("enter a: "))
+b = int(input("enter b: "))
 
 result = 1
 
