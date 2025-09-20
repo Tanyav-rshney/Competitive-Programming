@@ -1,5 +1,5 @@
-a=int(input("enter a:"))
-b=int(input("enter b:"))
+a=int(input())
+b=int(input())
 if(a>b):
       print("a is max")
 else:

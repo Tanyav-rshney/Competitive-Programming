@@ -1,6 +1,6 @@
 #accept the percentage from the user display the grade
 
-percentage = float(input("Enter your percentage: "))
+percentage = float(input())
 
 if percentage < 25:
     print("Grade: D")

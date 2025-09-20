@@ -9,9 +9,9 @@
 # print("the minimum no. is:",minimum)
 
 
-A = int(input("Enter number 1: "))
-B = int(input("Enter number 2: "))
-C = int(input("Enter number 3: "))
+A = int(input())
+B = int(input())
+C = int(input())
 
 if A <= B and A <= C:
     print("Minimum is", A)
