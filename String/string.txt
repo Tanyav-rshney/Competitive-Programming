@@ -1,0 +1,3 @@
+⭐STRING: 
+-sequence of characters
+-immutable and ordered

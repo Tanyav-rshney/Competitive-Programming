@@ -1,0 +1,22 @@
+SUBARRAY
+-continuous part of array
+-single element
+-entire
+-empty array is not a SUBARRAY
+
+EXAMPLE
+[19,27,43,40,18]
+[] - no
+[27,43,40] - yes
+[27,43,18] - no
+[43] - yes
+
+
+⭐Formula to find subarrays in an array
+n(n+1)/2
+
+EXAMPLE
+[11,12,13,14,15]
+subarray=5(5+1)/2
+        = 5*3
+        = 15

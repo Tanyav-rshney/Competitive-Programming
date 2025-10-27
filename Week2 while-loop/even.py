@@ -1,4 +1,4 @@
-#Print natural numbers from 1 to N
+#Print even numbers from 1 to N
 
 n=int(input("enter n:"))
 i=2
