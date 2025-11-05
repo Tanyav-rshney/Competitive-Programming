@@ -1,0 +1,8 @@
+Recursion is a programing technique where a function calls itself directly or indirectly in order to solve the problems.
+In a recursive function, the function makes one or more calls to itself as a part of its execution.
+The process continues until a base case is reached at which point the function stop calling itself and returns a result.
+
+Steps:
+- makes an assumption, decide what your function does and trust that it will do it
+- main logic, solve main problem using sub-problem
+- Basecase: ehen a recursion stop
