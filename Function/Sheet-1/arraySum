@@ -1,0 +1,9 @@
+def sum_array(arr):
+    s=0
+    for x in arr:
+        s+=x
+    return s
+
+n=int(input())
+a=list(map(int,input().split()))
+print(sum_array(a))

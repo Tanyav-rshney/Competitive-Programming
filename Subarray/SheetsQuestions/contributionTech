@@ -1,0 +1,10 @@
+n=int(input())
+arr=list(map(int,input().split()))
+
+total=0
+for i in range(n):
+    left=i+1
+    right=n-i
+    total= total+arr[i]*left*right
+
+print(total)

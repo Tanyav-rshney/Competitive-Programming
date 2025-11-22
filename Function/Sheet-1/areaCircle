@@ -1,0 +1,6 @@
+def area_circle(r):
+    pi=3.14
+    return pi*r*r
+
+radius=int(input())
+print(area_circle(radius))

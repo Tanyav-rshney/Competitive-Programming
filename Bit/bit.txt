@@ -4,3 +4,6 @@ a|0=a
 a|a=a
 a^0=a
 a^a=0
+
+right shift operator
+

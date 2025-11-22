@@ -1,0 +1,7 @@
+# Program 2: Print All Subarrays
+size=int(input())
+arr=list(map(int,input().split()))
+
+for i in range(size):
+    for j in range(i,size):
+        print(*arr[i:j+1])

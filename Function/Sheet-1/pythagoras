@@ -1,0 +1,6 @@
+def pythagoras(a,b):
+    return (a*a + b*b)**0.5
+
+x=int(input())
+y=int(input())
+print(pythagoras(x,y))

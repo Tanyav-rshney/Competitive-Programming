@@ -1,0 +1,7 @@
+def volume(r):
+    pi=3.14
+    vol=(4*pi*r*r*r)/3
+    return vol
+
+R=int(input())
+print(volume(R))

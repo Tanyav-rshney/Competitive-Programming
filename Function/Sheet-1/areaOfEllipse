@@ -1,0 +1,7 @@
+def area_ellipse(a,b):
+    pi=3.14
+    return pi*a*b
+
+A=int(input())
+B=int(input())
+print(area_ellipse(A,B))

@@ -1,0 +1,9 @@
+def power(a,b):
+    ans=1
+    for _ in range(b):
+        ans=ans*a
+    return ans
+
+A=int(input())
+B=int(input())
+print(power(A,B))

@@ -1,0 +1,5 @@
+def area_square(s):
+    return s*s
+
+side=int(input())
+print(area_square(side))
