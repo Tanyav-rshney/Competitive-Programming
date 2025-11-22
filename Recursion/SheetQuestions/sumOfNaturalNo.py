@@ -1,4 +1,4 @@
-merko#sum of n natural numbers
+#sum of n natural numbers
 
 
 def sum(n):
